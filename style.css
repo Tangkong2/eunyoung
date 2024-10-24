@@ -2937,6 +2937,7 @@ body.nav-active .nav__block .nav__block-item {
   line-height: 1.5;
 }
 .mb-4 .art_box .txt_box em b{
+  font-size: 1.1rem;
   font-weight: 500;
   color: #ff659c;
 }
@@ -3103,7 +3104,7 @@ body.nav-active .nav__block .nav__block-item {
   .mb-4 .maeil{
     font-size: 1rem;
   }
-  .mb-4 .art_box .txt_box em{
+  .mb-4 .art_box .txt_box em, .mb-4 .art_box .txt_box em b{
     font-size: 0.9rem;
   }
   .mb-4 .art_box .txt_box .link{
@@ -3138,7 +3139,7 @@ body.nav-active .nav__block .nav__block-item {
   .mb-4 .art_box .txt_box{
     padding: 15px 15px;
   }
-  .mb-4 .art_box .txt_box em{
+  .mb-4 .art_box .txt_box em, .mb-4 .art_box .txt_box em b{
     font-size: 0.8rem;
   }
   .mb-4 .art_box .txt_box .link {
@@ -3168,7 +3169,7 @@ body.nav-active .nav__block .nav__block-item {
   .py-5{
     padding-top: 23px !important;
   }
-  .mb-4 .art_box .txt_box em{
+  .mb-4 .art_box .txt_box em, .mb-4 .art_box .txt_box em b{
     font-size: 0.9rem;
   }
   .mb-4 .maeil{
@@ -3198,7 +3199,7 @@ c .container{
     font-size: 11px;
     font-weight: 300;
   }
-  .mb-4 .art_box .txt_box em {
+  .mb-4 .art_box .txt_box em, .mb-4 .art_box .txt_box em b {
     font-size: 11px;
     line-height: 1.5;
   }
@@ -3244,7 +3245,7 @@ c .container{
     font-size: 9px;
     padding: 2px 0px 1px 4px;
   }
-  .mb-4 .art_box .txt_box em {
+  .mb-4 .art_box .txt_box em, .mb-4 .art_box .txt_box em b {
     font-size: 10px;
     font-weight: 400;
     line-height: 1.5;
@@ -3270,7 +3271,7 @@ c .container{
   }
 }
 @media only screen and (max-width: 400px){
-  .mb-4 .art_box .txt_box em{
+  .mb-4 .art_box .txt_box em, .mb-4 .art_box .txt_box em b{
     font-size: 10px;
   }
 }
